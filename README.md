@@ -3,11 +3,11 @@
 <br>
 
 ## Projetos atuais
-- <img align="center" width="25px" alt="DisCloud" src="https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi7erfEXlqjPVXAN-2%2Fdiscloudlogo.png?alt=media&token=cf8f1f8f-f10f-4519-9c7c-cc8a8816f8ac">**CTO e programador backend do bot e site da [DisCloud](https://discloudbot.com)**
+- <img align="center" width="25px" alt="DisCloud" src="https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi7erfEXlqjPVXAN-2%2Fdiscloudlogo.png?alt=media&token=cf8f1f8f-f10f-4519-9c7c-cc8a8816f8ac"> **CTO e programador backend do bot e site da [DisCloud](https://discloudbot.com)**
 
-- <img align="left" width="25px" alt="theHunter Luso" src="https://thehunterluso.com/public/img/logo.png">**Programador e designer web do site e bot da comunidade [theHunter Luso](https://thehunterluso.com)**
+- <img align="center" width="25px" alt="theHunter Luso" src="https://thehunterluso.com/public/img/logo.png"> **Programador e designer web do site e bot da comunidade [theHunter Luso](https://thehunterluso.com)**
 
-- <img align="left" width="25px" alt="R2-D2 Bot" src="https://cdn.discordapp.com/avatars/524940132755701760/1fb687e7f6869be5f639700d2326db83.png?size=1024">**Programador do bot Discord [R2-D2](https://discord.gg/5rPtCaV)**
+- <img align="center" width="25px" alt="R2-D2 Bot" src="https://cdn.discordapp.com/avatars/524940132755701760/1fb687e7f6869be5f639700d2326db83.png?size=1024"> **Programador do bot Discord [R2-D2](https://discord.gg/5rPtCaV)**
 <br>
 
 ## Redes sociais:
