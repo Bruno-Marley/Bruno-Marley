@@ -20,7 +20,7 @@
 <br>
 
 ## Linguagens e ferramentas:
-<img align="left" alt="Javascript" width="25px" src="https://addons-media.operacdn.com/media/CACHE/images/extensions/65/203065/1.2.4.1-rev2/images/0cded3a3276425911d55a2552bf361bf/7852aa99f857cd72012843b4cce5090f.jpg"/>
+<img align="left" title="Javascript" alt="Javascript" width="25px" src="https://addons-media.operacdn.com/media/CACHE/images/extensions/65/203065/1.2.4.1-rev2/images/0cded3a3276425911d55a2552bf361bf/7852aa99f857cd72012843b4cce5090f.jpg"/>
 <img align="left" alt="C Sharp" width="25px" src="https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png"/>
 <img align="left" alt="Ruby" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png"/>
 <img align="left" alt="Node.js" width="25px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"/>
