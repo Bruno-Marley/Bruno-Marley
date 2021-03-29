@@ -1,10 +1,4 @@
-### Hi there, I'm João Otávio 👋
-
-<a href="https://twitter.com/joaootaviosge">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-<a href="https://discord.gg/JoaoOtavioS#4300">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+# Bruno Marley 👋
 
 <br />
 <br />
@@ -17,32 +11,17 @@
 - 📌 2020 Goals: Finish My Minecraft Server Project & Contribute to some Open Source projects
 - 🎭 Fun fact: Swimming, Hiking and Discovery
 
-### Connect with me:
+### Redes sociais:
 
-[<img align="left" alt="joaootavios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/joaootavios)
-[<img align="left" alt="joaootavios | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/joaootaviosge)
-[<img align="left" alt="joaootavios | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/JoaoOtavioS#4300)
+[<img align="left" alt="Bruno Marley | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/YouTube_icon.png/320px-YouTube_icon.png" />](https://www.youtube.com/channel/UC_tKn6TardcuCCLB98Pe2YQ)
+[<img align="left" alt="Bruno Marley | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />](https://twitter.com/BrunoMarley__)
+[<img align="left" alt="Bruno Marley | Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />](https://steamcommunity.com/id/apollogson/)
 
 <br />
 
-### Languages and Tools:
+### Linguagens e ferramentas:
 
-<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Intellij" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
-<img align="left" alt="Nginx" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/nginx-logo-3.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Next JS" width="26px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png">
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Javascript" width="26px" src="https://addons-media.operacdn.com/media/CACHE/images/extensions/65/203065/1.2.4.1-rev2/images/0cded3a3276425911d55a2552bf361bf/7852aa99f857cd72012843b4cce5090f.jpg" />
 
 <br />
 <br />
