@@ -5,7 +5,7 @@
 ## Projetos atuais
 <ul>
     <li>
-    <img align="left" width="30px" alt="DisCloud" src="https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi7erfEXlqjPVXAN-2%2Fdiscloudlogo.png?alt=media&token=cf8f1f8f-f10f-4519-9c7c-cc8a8816f8ac"> CTO e programador backend do bot e site da [https://discloudbot.com](DisCloud)
+    <img align="left" width="30px" alt="DisCloud" src="https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi7erfEXlqjPVXAN-2%2Fdiscloudlogo.png?alt=media&token=cf8f1f8f-f10f-4519-9c7c-cc8a8816f8ac"><span style="font-size: 20px">CTO e programador backend do bot e site da [DisCloud](https://discloudbot.com)</span>
     </li>
 </ul>
 
