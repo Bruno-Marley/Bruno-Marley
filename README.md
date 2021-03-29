@@ -4,9 +4,9 @@
 
 ## Projetos atuais
 
-- <img align="left" width="30px" alt="DisCloud" src="https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi7erfEXlqjPVXAN-2%2Fdiscloudlogo.png?alt=media&token=cf8f1f8f-f10f-4519-9c7c-cc8a8816f8ac">CTO e programador backend do bot e site da [DisCloud](https://discloudbot.com)
+- <img align="left" width="25px" alt="DisCloud" src="https://gblobscdn.gitbook.com/assets%2F-LmveSmUr3rXxq5cvnW5%2F-Lqi6xDE_7ijG6VKAzZX%2F-Lqi7erfEXlqjPVXAN-2%2Fdiscloudlogo.png?alt=media&token=cf8f1f8f-f10f-4519-9c7c-cc8a8816f8ac">**CTO e programador backend do bot e site da [DisCloud](https://discloudbot.com)**
 
-- <img align="left" width="30px" alt="theHunter Luso" src="https://thehunterluso.com/public/img/logo.png">Programador e designer web do site e bot da comunidade [theHunter Luso](https://thehunterluso.com)
+- <img align="left" width="25px" alt="theHunter Luso" src="https://thehunterluso.com/public/img/logo.png">**Programador e designer web do site e bot da comunidade [theHunter Luso](https://thehunterluso.com)**
 
 
 ### Redes sociais:
