@@ -3,11 +3,11 @@
 <br>
 
 ## Projetos atuais
-- <img align="center" width="25px" alt="DisCloud" src="https://3321893187-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXyXTpMU1aXV70uE9Lqrd%2Fuploads%2FQ8oiKy7Pv8EdEiiNH1Jz%2Ficon.png?alt=media&token=789679df-7fef-4194-8284-dc965ed3d5c7"> **CTO & Backend developer do bot e site da [DisCloud](https://discloudbot.com)**
+- <img align="center" width="25px" alt="DisCloud" src="https://3321893187-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXyXTpMU1aXV70uE9Lqrd%2Fuploads%2FQ8oiKy7Pv8EdEiiNH1Jz%2Ficon.png?alt=media&token=789679df-7fef-4194-8284-dc965ed3d5c7"> **CTO & Backend Developer do bot e site da [DisCloud](https://discloudbot.com)**
 
 - <img align="center" width="25px" alt="theHunter Luso" src="https://thehunterluso.com/public/img/logo.png"> **Developer & Designer web do site e bot da comunidade [theHunter Luso](https://thehunterluso.com)**
 
-- <img align="center" width="25px" alt="Clash Team" src="https://cdn.discordapp.com/avatars/848235049542221834/2cb1dc04c62cd7daddac8de71fb990eb.png?size=1024"> **Clash Team Developer & Founder [Clash Team](https://clash-team.xyz)**
+- <img align="center" width="25px" alt="Clash Team" src="https://cdn.discordapp.com/avatars/848235049542221834/2cb1dc04c62cd7daddac8de71fb990eb.png?size=1024"> **Founder & Developer do [Clash Team](https://clash-team.xyz)**
 <br>
 
 ## Redes sociais:
