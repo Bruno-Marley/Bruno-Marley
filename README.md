@@ -7,12 +7,12 @@
 
 - <img align="center" width="25px" alt="theHunter Luso" src="https://thehunterluso.com/public/img/logo.png"> **Developer & Designer web do site e bot da comunidade [theHunter Luso](https://thehunterluso.com)**
 
-- <img align="center" width="25px" alt="Clash Team" src="https://cdn.discordapp.com/avatars/848235049542221834/2cb1dc04c62cd7daddac8de71fb990eb.png?size=1024"> **Clash Team developer & Founder [Clash Team](https://clash-team.xyz)**
+- <img align="center" width="25px" alt="Clash Team" src="https://cdn.discordapp.com/avatars/848235049542221834/2cb1dc04c62cd7daddac8de71fb990eb.png?size=1024"> **Clash Team Developer & Founder [Clash Team](https://clash-team.xyz)**
 <br>
 
 ## Redes sociais:
 [<img align="left" alt="Bruno Marley | YouTube" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-youtube-square1-512.png" />](https://www.youtube.com/channel/UC_tKn6TardcuCCLB98Pe2YQ)
-[<img align="left" alt="Bruno Marley | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />](https://twitter.com/BrunoMarley__)
+[<img align="left" alt="Bruno Marley | X" width="25px" src="https://www.phoronix.net/image.php?id=2023&image=twitter_x" />](https://twitter.com/BrunoMarley__)
 [<img align="left" alt="Bruno Marley | Steam" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />](https://steamcommunity.com/id/apollogson/)
 
 <br>
